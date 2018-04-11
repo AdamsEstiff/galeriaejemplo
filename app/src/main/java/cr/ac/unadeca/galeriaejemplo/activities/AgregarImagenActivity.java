@@ -23,11 +23,12 @@ import pl.aprilapps.easyphotopicker.EasyImage;
      */
 
     public class AgregarImagenActivity extends AppCompatActivity {
-        private ImageView imagen ;
+        private ImageView imagen;
         private EditText nombre;
         private EditText autor;
         private File foto;
         private Imagen imagenAGuardar;
+
         @Override
         protected void onCreate(@Nullable Bundle savedInstanceState) {
             super.onCreate(savedInstanceState);
@@ -138,5 +139,4 @@ import pl.aprilapps.easyphotopicker.EasyImage;
             finish();
         }
     }
-
 }

@@ -7,7 +7,6 @@
     <string name="username">Usuario</string>
     <string name="password">Contraseña</string>
     <string name="loggin">Iniciar sesión</string>
-
     <string name="register">Registrarce</string>
     <string name="registerandlogin">Registrarse E iniciar sesión</string>
     <string name="agregarimagen">Agregar Imagen</string>
@@ -17,4 +16,7 @@
     <string name="app_login">Iniciar sesión</string>
     <string name="app_register">Registrate</string>
     <string name="loogout">Cerrar sesion</string>
+    <string name="Nombre">Escriba su nombre</string>
+    <string name="Descripcion">Coloque su descripción</string>
+    <string name="Autor">Coloque el nombre del autor</string>
 </resources>

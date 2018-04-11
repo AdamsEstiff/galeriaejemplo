@@ -7,9 +7,10 @@
     <ImageView
         android:id="@+id/imageLogin"
         android:layout_width="match_parent"
-        android:layout_alignParentTop="true"
         android:layout_height="100dp"
-        android:layout_above="@+id/linearLayout" />
+        android:layout_above="@+id/linearLayout"
+        android:layout_alignParentTop="true"
+        android:background="@android:drawable/ic_menu_camera" />
     <LinearLayout
         android:layout_width="match_parent"
         android:padding="@dimen/fab_margin"
